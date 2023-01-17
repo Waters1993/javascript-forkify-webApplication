@@ -1,4 +1,4 @@
-# javascript-forkify-webApplication
+# JavaScript web application using forkify API
 
 ## Inspired by JavaScript zero to hero
 
