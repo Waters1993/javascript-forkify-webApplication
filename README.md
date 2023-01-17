@@ -1,7 +1,8 @@
 # JavaScript web application - "Forkify"
 
 [Check out the live version](https://forkifyrecipesjw.netlify.app/)
-> by [James Waters](https://james-waters.com)
+
+
 ![](images/landing.PNG)
 ![](images/landing3.PNG)
 
@@ -48,7 +49,8 @@ Forkify is a recipe web app using the Forkify API to allow users to search, view
 Built using the MVC Architecture. View class extends the rest of the components. Controller keeps bidirectional dataflow. SCSS files are divided for major components.
 
 
-
+## Author
+[James Waters](https://james-waters.com)
 
 
 
