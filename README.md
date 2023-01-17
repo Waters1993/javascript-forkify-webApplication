@@ -23,19 +23,6 @@ I added JavaScript to add dynamic and interactive content to the page such as a 
 - Smooth scroll
 - Building tabed and slider components
 
-## Built With
-
-- HTML
-- CSS
-- JavaScript
-- VS Code
-- Git
-
-
-## Introduction
-
-Forkify is a recipe web app using the Forkify API to allow users to search, view, modify, bookmark and add recipes.
-
 ### Features
 
 * Query an ingredient to recieve a list of recipes containing that ingredient.
