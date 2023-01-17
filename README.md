@@ -1,4 +1,4 @@
-# JavaScript web application using forkify API
+# JavaScript web application - "Forkify"
 
 [Check out the live version](https://forkifyrecipesjw.netlify.app/)
 > by [James Waters](https://james-waters.com)
