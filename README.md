@@ -6,7 +6,7 @@
 
 > by [James Waters](https://james-waters.com)
 # ![](images/landing.PNG)
-# ![](images/landing2.PNG)
+# ![](images/landing3.PNG)
 
 ## Introduction
 
