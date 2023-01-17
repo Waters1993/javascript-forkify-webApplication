@@ -5,7 +5,7 @@
 [Check out the live version](https://forkifyrecipesjw.netlify.app/)
 
 > by [James Waters](https://james-waters.com)
-# ![showcase](images/landing.PNG)
+# ![](images/landing.PNG)
 
 ## Introduction
 
