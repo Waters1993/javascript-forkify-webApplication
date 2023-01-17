@@ -2,8 +2,8 @@
 
 [Check out the live version](https://forkifyrecipesjw.netlify.app/)
 > by [James Waters](https://james-waters.com)
-# ![](images/landing.PNG)
-# ![](images/landing3.PNG)
+[](images/landing.PNG)
+[](images/landing3.PNG)
 
 ## Motivation & Acknowledgements
 
