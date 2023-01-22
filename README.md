@@ -18,13 +18,11 @@ HTML and CSS styling for all elements of the application were provided as a temp
 ## Implemented Features
 - **Search**: Users can search a key word or ingredient. The results controller queries the API and renders the results to the screen.<br>
 - **Pagination**: Results are rendered using pagination. Each page renders 10 new recipes from the search results.<br>
-- **Recipe View**: Displays additonal recipe information such as ingredients, an example image, and the link to the original recipe.<br><br>
+- **Recipe View**: Displays additonal recipe information such as ingredients, an example image, and the link to the original recipe.<br>
 - **Update servings**: Automatically updates the required quantites for each ingredient when serving size is adjusted by the user.<br>
-- **Bookmarking**: Bookmarks allow users to store recipes to access later. Bookmarks can be removed by clicking the bookmarked again. 
-
+- **Bookmarks**: Allow users to mark their favourite recipes. Bookmarked recipes can be viewed and accessed in the bookmarks dropdown. 
 
 ## JavaScript concepts and techniques used
-
 - Event Propagation: Bubbling and Capturing
 - Interstion Observer API
 - Lazy loading images
