@@ -16,7 +16,7 @@ This project was created while completing "The Complete JavaScript Course 2021: 
 HTML and CSS styling for all elements of the application were provided as a template at the beginning of the project.<br>
 
 ## Implemented Features
-Search: Users can enter a key word or ingredient in the search bar. The results controller will then query the API and render the results to the user.<br>
+**Search**: Users can enter a key word or ingredient in the search bar. The results controller will then query the API and render the results to the user.<br>
 Pagination: Results are displayed using pagination to avoid cluttering the view window. Initially 10 results are displayed. The user can use the pagination buttons to cycle to the next 10 results etc.<br>
 Recipe View: A selected recipe will be opened in the recipe view window. This displays further information on the recipe including ingredients and an example image along with the link to the original recipe.<br>
 Update servings: The serving size for each recipe can be adjusted by the user. This will update the required quantites for each ingredient.<br>
