@@ -26,7 +26,7 @@ HTML and CSS styling for all elements of the application were provided as a temp
 ## Architecture Patterns
 
 - **MVC**: 
-![](images/MVC.PNG)
+![](images/MVC.png)
 
 
 ## Author
