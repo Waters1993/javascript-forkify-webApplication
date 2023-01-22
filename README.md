@@ -23,25 +23,10 @@ HTML and CSS styling for all elements of the application were provided as a temp
 | Bookmark recipes   | Display list of all bookmarked recipes        |
 | See my bookmarks when I come back later   | Store bookmark data in the browser using local storage.<br>On page load, read saved bookmarks from local storage and display        |
 
+## Architecture Patterns
 
-## JavaScript concepts and techniques used
-- Event Propagation: Bubbling and Capturing
-- Interstion Observer API
-- Lazy loading images
-- Smooth scroll
-- Building tabed and slider components
-
-### Features
-
-* Query an ingredient to recieve a list of recipes containing that ingredient.
-* Easily bookmark or edit the servings of the selected recipe.
-* Create your own recipes and store them as user recipes.
-* Remove bookmarks or delete user recipes.
-* LocalStorage keeps the data when users exit the app.
-
-### Project Architecture
-
-Built using the MVC Architecture. View class extends the rest of the components. Controller keeps bidirectional dataflow. SCSS files are divided for major components.
+- **MVC**: 
+![](images/MVC.PNG)
 
 
 ## Author
