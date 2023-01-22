@@ -18,7 +18,9 @@ HTML and CSS styling for all elements of the application were provided as a temp
 | User Story     | Feature |
 | ----------- | ----------- |
 |   Search for recipes    | Input field to send request to API with searched keywords.<br>Display results with pagination.<br>Display recipe with cooking time, servings and ingredients      |
-| Paragraph   | Text        |
+| Update the number of servings   | Update all ingredients according to current number of servings        |
+| Bookmark recipes   | Display list of all bookmarked recipes        |
+| See my bookmarks when I come back later   | Store bookmark data in the browser using local storage.<br>On page load, read saved bookmarks from local storage and display        |
 
 ## Implemented Features
 - **Search**: Users can search a key word or ingredient. The results controller queries the API and renders the results to the screen.<br>
