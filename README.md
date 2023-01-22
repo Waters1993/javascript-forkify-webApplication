@@ -17,7 +17,7 @@ HTML and CSS styling for all elements of the application were provided as a temp
 
 | User Story     | Feature |
 | ----------- | ----------- |
-|   Search for recipes    | Input field to send request to API with searched keywords       |
+|   Search for recipes    | Input field to send request to API with searched keywords.<br>Display results with pagination.<br>Display recipe with cooking time, servings and ingredients      |
 | Paragraph   | Text        |
 
 ## Implemented Features
