@@ -15,9 +15,9 @@ Forkify is a web application developed using JavaScript. The project is built us
 This project was created while completing "The Complete JavaScript Course 2021: From Zero to Expert!" by Jonas Schmedtmann.<br>
 HTML and CSS styling for all elements of the application were provided as a template at the beginning of the project.<br>
 
-| Syntax      | Description |
+| User Story     | Feature |
 | ----------- | ----------- |
-| Header      | Title       |
+|   Search for recipes    | Input field to send request to API with searched keywords       |
 | Paragraph   | Text        |
 
 ## Implemented Features
