@@ -16,11 +16,11 @@ This project was created while completing "The Complete JavaScript Course 2021: 
 HTML and CSS styling for all elements of the application were provided as a template at the beginning of the project.<br>
 
 ## Implemented Features
-- **Search**: Users can enter a key word or ingredient in the search bar. The results controller will then query the API and render the results to the user.<br><br>
-**Pagination**: Results are displayed using pagination to avoid cluttering the view window. Initially 10 results are displayed. The user can use the pagination buttons to cycle to the next 10 results etc.<br><br>
-**Recipe View**: A selected recipe will be opened in the recipe view window. This displays further information on the recipe including ingredients and an example image along with the link to the original recipe.<br><br>
-**Update servings**: The serving size for each recipe can be adjusted by the user. This will update the required quantites for each ingredient.<br><br>
-**Bookmarking**: Each recipe will be displayed with a button to allow the recipe to be bookmarked by the user. This recipe will then be stored for the user and can be accessed through the bookmarks tab on the application navbar. Bookmarks can be removed be simply clicking the bookmarked button a second time. 
+- **Search**: Users can search a key word or ingredient. The results controller queries the API and renders the results to the screen.<br>
+- **Pagination**: Results are rendered using pagination. Each page renders 10 new recipes from the search results.<br>
+- **Recipe View**: Displays additonal recipe information such as ingredients, an example image, and the link to the original recipe.<br><br>
+- **Update servings**: Automatically updates the required quantites for each ingredient when serving size is adjusted by the user.<br>
+- **Bookmarking**: Bookmarks allow users to store recipes to access later. Bookmarks can be removed by clicking the bookmarked again. 
 
 
 ## JavaScript concepts and techniques used
