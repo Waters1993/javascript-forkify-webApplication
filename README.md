@@ -13,19 +13,19 @@ This project was created while completing "The Complete JavaScript Course 2021: 
 HTML and CSS styling for all elements of the application were provided as a template at the beginning of the project.<br>
 
 ## Features 
-<center>
+
 | User Story     | Feature |
 | ----------- | ----------- |
 |   Search for recipes    | Input field to send request to API with searched keywords.<br>Display results with pagination.<br>Display recipe with cooking time, servings and ingredients      |
 | Update the number of servings   | Update all ingredients according to current number of servings        |
 | Bookmark recipes   | Display list of all bookmarked recipes        |
 | See my bookmarks when I come back later   | Store bookmark data in the browser using local storage.<br>On page load, read saved bookmarks from local storage and display        |
-<center>
+
 ## Architecture Patterns
 
 - **MVC**: The application is "split" into three parts: the data(Model), the presentation of that data to the user(View), and the actions taken on any user interation(Controller). This design pattern allows a clean cut separation of concerns allows for easier code maintainability or changes in the future. 
  <p align="center">
-  <img src="./images/MVC.png" alt="landingPage" width="650"/>
+  <img src="./images/MVC.png" alt="landingPage" width="850"/>
 </p>
 
 - **OOP**: Each view for the application (search, recipe, or results view) is represented as an object. All view objects inherit from a View.js parent class which contains methods and attributes common to all views. 
