@@ -6,7 +6,7 @@ Need a recipe for tonight? [Check out the live version](https://forkifyrecipesjw
 </p>
 
 ## Overview
-Developed using vanilla JavaScript forkify is built using an MVC (Model View Controller) architecture pattern. Pulling data from an API its allows users to search recipes based on key words or ingredients. Functionality includes updating ingredient quantities based on your desired serving size and bookmarking your favourite recipes to access later. The application is hosted and can be viewed live on Netlify.  
+Developed using vanilla JavaScript forkify is built using an MVC (Model View Controller) architecture pattern. Pulling data from an API it allows users to search recipes based on key words or ingredients. Functionality includes updating ingredient quantities based on your desired serving size and bookmarking your favourite recipes to access later. The application is hosted and can be viewed live on Netlify.  
 
 ## Motivation & Acknowledgements
 This project was created while completing "The Complete JavaScript Course 2021: From Zero to Expert!" by Jonas Schmedtmann.<br>
