@@ -3,7 +3,11 @@
 Need a recipe idea for dinner tonight? [Check out the live version](https://forkifyrecipesjw.netlify.app/)
  
  
- <img src="./images/landing.PNG" alt="landingPage" width="650"/>
+ <p align="center">
+  <img src="./images/landing.PNG" alt="landingPage" width="650"/>
+</p>
+
+ 
 
 ## Overview
 Forkify is a web application developed using JavaScript. The project is built using an MVC (Model View Controller) architecture pattern. It pulls data from an API to allow users to search recipes based on key words or ingredients. Users functionality includes the ability to update ingredient quantities based on your desired serving size as well as bookmarking your favourite recipes to save for later. The application is hosted and can be viewed live on Netlify.  
