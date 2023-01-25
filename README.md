@@ -23,15 +23,13 @@ HTML and CSS styling for all elements of the application were provided as a temp
 
 ## Architecture Patterns
 
-- **MVC**: The application is "split" into three parts: the data(Model), the presentation of that data to the user(View), and the actions taken on any user interation(Controller). This design pattern allows a clean cut separation of concerns allows for easier code maintainability or changes in the future. 
+- **MVC**: The application is "split" into three parts: the data(Model), the presentation of that data to the user(View), and the actions taken on any user interation(Controller). This design pattern creates a clean cut separation of concerns and allows for easier code maintainability and changes in the future. 
  <p align="center">
   <img src="./images/MVC.png" alt="landingPage" width="850"/>
 </p>
 
 - **OOP**: Each view for the application (search, recipe, or results view) is represented as an object. All view objects inherit from a View.js parent class which contains methods and attributes common to all views. 
-- **Publish/Subscribe**: The publish/subsribe design pattern is utilized to maintain a separation of concerns between the view and the controller. A handler function is added to each view to listen for any click events by the user. Once a click event is received the handler then calls a function which is captured in the controller. 
-In this scenario the controller is subsribed to the view which publishes once a click event occurs. 
-
+- **Publish/Subscribe**: The publish/subsribe design pattern is utilized to maintain a separation of concerns between the view and the controller. A handler function is added to each view to listen for any click events by the user. Once a click event is received the handler then calls the required function which is excuted by the controller. 
 
 ## Author
 [James Waters](https://james-waters.com)
