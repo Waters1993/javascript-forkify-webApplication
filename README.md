@@ -1,6 +1,6 @@
 # JavaScript web application - "Forkify"
 
-[Check out the live version](https://forkifyrecipesjw.netlify.app/)
+Need a recipe idea for dinner tonight? [Check out the live version](https://forkifyrecipesjw.netlify.app/)
 
 
 ![](images/landing.PNG)
